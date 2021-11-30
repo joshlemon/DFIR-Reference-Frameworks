@@ -9,6 +9,7 @@ This repository is intended to provide a public reference to frameworks directly
 |Description | Author | Link|
 |-|-|-|
 |Sensitive Information Sharing/Classification|FIRST.org|[Traffic Light Protocal](https://www.first.org/tlp/)|
+|Event and Incident Vocabulary|Verizon|[The Vocabulary for Event Recording and Incident Sharing (VERIS)](http://veriscommunity.net/)|
 |Detection Indicators Usefulness |David J Bianco|[The Pyramid of Pain](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)|
 
 ### Malware Analysis
