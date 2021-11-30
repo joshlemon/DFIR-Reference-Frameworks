@@ -22,7 +22,8 @@ This repository is intended to provide a public reference to frameworks directly
 
 |Description | Author | Link|
 |-|-|-|
-
+|Malware Analysis Process|Lenny Zeltser|[How You Can Start Learning Malware Analysis](https://zeltser.com/start-learning-malware-analysis/)|
+|Sharing Malware Samples|Lenny Zeltser|[How to Share Malware Samples With Other Researchers](https://zeltser.com/share-malware-with-researchers/)|
 
 ## **Threat Intelligence** 
 
@@ -32,13 +33,16 @@ This repository is intended to provide a public reference to frameworks directly
 |CTI Structured Language|MITRE|[Structured Threat Information Expression (STIX™)](https://oasis-open.github.io/cti-documentation/stix/intro)|
 |Transport Framework for Sharing CTI|MITRE|[Trusted Automated Exchange of Intelligence Information (TAXII™)](https://oasis-open.github.io/cti-documentation/taxii/intro)|
 |Assessing CTI Feeds Value|Kimberly K. Watson|[Assessing The Potential Value Of Cyber Threat Intelligence (CTI) Feeds](https://www.cisa.gov/sites/default/files/publications/Assessing%20Cyber%20Threat%20Intelligence%20Threat%20Feeds_508c.pdf)|
-|Modeling Security Threats|Bruce Schneier|[Attack Trees](https://www.schneier.com/academic/archives/1999/12/attack_trees.html)|
+
 
 
 ## **Proactive Response** 
 
 |Description | Author | Link|
 |-|-|-|
+|Modeling Security Threats|Bruce Schneier|[Attack Trees](https://www.schneier.com/academic/archives/1999/12/attack_trees.html)|
+|Theat Modelling Framework|Microsoft|[The STRIDE Threat Model](https://docs.microsoft.com/en-us/previous-versions/commerce-server/ee823878(v=cs.20))|
+|Vulnerability Scoring Framework|FIRST.org|[Common Vulnerability Scoring System](https://www.first.org/cvss/specification-document)|
 
 
 ### Threat Hunting
