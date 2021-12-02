@@ -1,6 +1,7 @@
 # DFIR Reference Frameworks
 This repository is intended to provide a public reference to frameworks directly relevant to the DFIR community. It's common for the DFIR community to use terminology that isn't always well defined in the documentation they produce. This repository aims to help the DFIR community, and those reading information from the DFIR community, have a better understanding of defined terms and a more consistent approach to the language used in documentation.
 
+*Given the DFIR community is not a regulated industry, it's not common to find academic peer-reviewed papers for the majority of the topics below. For this reason, the Frameworks provided below are considered commonly used/accepted within the industry, or originate from well-known educational resrouces. This repository is not intended as a reference location to individual vendor methodologies. Any changes submitted need to show that the source meets these requirements.*
 
 ## **Incident Response** 
 
@@ -49,6 +50,8 @@ This repository is intended to provide a public reference to frameworks directly
 
 |Description | Author | Link|
 |-|-|-|
+|TTP-Based Hunting Methodology|MITRE|[TTP-Based Hunting](https://www.mitre.org/sites/default/files/publications/pr-19-3892-ttp-based-hunting.pdf)|
+|Cyber Threat Hunting Model|Dan Gunter|[A Practical Model for Conducting Cyber Threat Hunting](https://www.sans.org/white-papers/38710/)|
 
 
 ## **Digital Forensics**
