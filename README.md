@@ -30,7 +30,8 @@ This repository is intended to provide a public reference to frameworks directly
 
 |Description | Author | Link|
 |-|-|-|
-|-|Sergio Caltagirone, Andrew Pendergast, Christopher Betz|[The Diamond Model of Intrusion Analysis](http://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf)|
+|CTI Source Analysis/Assessment Framework|Sergio Caltagirone, Andrew Pendergast, Christopher Betz|[The Diamond Model of Intrusion Analysis](http://www.activeresponse.org/wp-content/uploads/2013/07/diamond.pdf)|
+|CTI Likelihood and Confidence Taxonomies|MISP|[MISP Estimative Language](https://github.com/MISP/misp-taxonomies/blob/main/estimative-language/machinetag.json)|
 |CTI Structured Language|MITRE|[Structured Threat Information Expression (STIX™)](https://oasis-open.github.io/cti-documentation/stix/intro)|
 |Transport Framework for Sharing CTI|MITRE|[Trusted Automated Exchange of Intelligence Information (TAXII™)](https://oasis-open.github.io/cti-documentation/taxii/intro)|
 |Assessing CTI Feeds Value|Kimberly K. Watson|[Assessing The Potential Value Of Cyber Threat Intelligence (CTI) Feeds](https://www.cisa.gov/sites/default/files/publications/Assessing%20Cyber%20Threat%20Intelligence%20Threat%20Feeds_508c.pdf)|
