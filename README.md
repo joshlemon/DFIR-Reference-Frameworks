@@ -16,6 +16,7 @@ This repository is intended to provide a public reference to frameworks directly
 |Detection Indicators Usefulness |David J Bianco|[The Pyramid of Pain](http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html)|
 |Capabilities to Defend an Organization|Matt Swann|[The Incident Response Hierarchy of Needs](https://github.com/swannman/ircapabilities)|
 |DFIR Reporting|Lenny Zeltser|[Report Template for Threat Intelligence and Incident Response](https://zeltser.com/cyber-threat-intel-and-ir-report-template/)|
+|Incident Response Framework for OT Systems|Chris Sistrunk, Ken Proska, Glen Chason, Daniel Kapellmann|[Introducing Mandiant's Digital Forensics and Incident Response Framework for Embedded OT Systems](https://www.mandiant.com/resources/mandiant-dfir-framework-ot)|
 
 ### Malware Analysis
 
