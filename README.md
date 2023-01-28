@@ -56,6 +56,15 @@ This repository is intended to provide a public reference to frameworks directly
 |Cyber Threat Hunting Model|Dan Gunter|[A Practical Model for Conducting Cyber Threat Hunting](https://www.sans.org/white-papers/38710/)|
 
 
+### Insider Threat
+|Description | Author | Link|
+|-|-|-|
+|Detecting and Identifying Insider Threats and Methodology|CISA|[Detecting and Identifying Insider Threats](https://www.cisa.gov/detecting-and-identifying-insider-threats)|
+|An Insider Threat Indicator Ontology Research Papaer|Carnegie Mellon University|[An Insider Threat Indicator Ontology](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=454613)|
+|Insider Threat Detection Case Study|NATO|[Insider Threat Detection Study](https://ccdcoe.org/uploads/2018/10/Insider_Threat_Study_CCDCOE.pdf)|
+|Insider Threat Detection for the Cloud|Dave Shackleford|[How to Build a Detection and Response Strategy for Insider Threats](https://www.sans.org/white-papers/how-to-build-detection-response-strategy-for-insider-threats/)|
+
+
 ## **Digital Forensics**
 
 |Description | Author | Link|
