@@ -3,6 +3,9 @@ This repository is intended to provide a public reference to frameworks directly
 
 *Given the DFIR community is not a regulated industry, it's not common to find academic peer-reviewed papers for the majority of the topics below. For this reason, the Frameworks provided below are considered commonly used/accepted within the industry, or originate from well-known educational resrouces. This repository is not intended as a reference location to individual vendor methodologies. Any changes submitted need to show that the source meets these requirements.*
 
+## Use of this Repository
+You're welcome, and I encourage, you to use the references provided below. All I ask is if you find other useful references you drop me an Issue with the link and why you think it's useful, so I can add it for others to benefit from. Additoinally, if you really enjoy using these references, shoot me an email or a message just to let me know this was useful....that's it, enjoy.
+
 ## **Incident Response** 
 
 * [NIST Computer Security Incident Handling Guide](https://www.nist.gov/privacy-framework/nist-sp-800-61)
@@ -63,6 +66,7 @@ This repository is intended to provide a public reference to frameworks directly
 |Whitepaper on Behaviour Indicators of Insider Threats|Eric D. Shaw, Ph.D. and Harley V. Stock, Ph.D|[Behavioral Risk Indicators of Malicious Insider Theft of Intellectual Property: Misreading the Writing on the Wall](https://static1.squarespace.com/static/596a623ba5790afcec9c024e/t/59c9e063a803bb62117213c0/1506402404657/Symantec+Malicious+Insider+Whitepaper+FINAL2.pdf)|
 |An Insider Threat Indicator Ontology Research Papaer|Carnegie Mellon University|[An Insider Threat Indicator Ontology](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=454613)|
 |Insider Threat Detection Case Study|NATO|[Insider Threat Detection Study](https://ccdcoe.org/uploads/2018/10/Insider_Threat_Study_CCDCOE.pdf)|
+|Insider Threat Detection and Approach from CrowdStrike|Venu Shastri - CrowdStrike|[Detecting Insider Threat Indicators](https://www.crowdstrike.com/cybersecurity-101/insider-threats/insider-threat-indicators/)|
 |Insider Threat Detection for the Cloud|Dave Shackleford|[How to Build a Detection and Response Strategy for Insider Threats](https://www.sans.org/white-papers/how-to-build-detection-response-strategy-for-insider-threats/)|
 
 
