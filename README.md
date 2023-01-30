@@ -60,6 +60,7 @@ This repository is intended to provide a public reference to frameworks directly
 |Description | Author | Link|
 |-|-|-|
 |Detecting and Identifying Insider Threats and Methodology|CISA|[Detecting and Identifying Insider Threats](https://www.cisa.gov/detecting-and-identifying-insider-threats)|
+|Whitepaper on Behaviour Indicators of Insider Threats|Eric D. Shaw, Ph.D. and Harley V. Stock, Ph.D|[Behavioral Risk Indicators of Malicious Insider Theft of Intellectual Property: Misreading the Writing on the Wall](https://static1.squarespace.com/static/596a623ba5790afcec9c024e/t/59c9e063a803bb62117213c0/1506402404657/Symantec+Malicious+Insider+Whitepaper+FINAL2.pdf)|
 |An Insider Threat Indicator Ontology Research Papaer|Carnegie Mellon University|[An Insider Threat Indicator Ontology](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=454613)|
 |Insider Threat Detection Case Study|NATO|[Insider Threat Detection Study](https://ccdcoe.org/uploads/2018/10/Insider_Threat_Study_CCDCOE.pdf)|
 |Insider Threat Detection for the Cloud|Dave Shackleford|[How to Build a Detection and Response Strategy for Insider Threats](https://www.sans.org/white-papers/how-to-build-detection-response-strategy-for-insider-threats/)|
