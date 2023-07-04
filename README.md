@@ -57,6 +57,7 @@ You're welcome, and I encourage, you to use the references provided below. All I
 |-|-|-|
 |TTP-Based Hunting Methodology|MITRE|[TTP-Based Hunting](https://www.mitre.org/sites/default/files/publications/pr-19-3892-ttp-based-hunting.pdf)|
 |Cyber Threat Hunting Model|Dan Gunter|[A Practical Model for Conducting Cyber Threat Hunting](https://www.sans.org/white-papers/38710/)|
+|Threat Hunting Scenarios|[@ThreatHuntProj](https://twitter.com/ThreatHuntProj)|[The Threat Hunting Project](https://github.com/ThreatHuntingProject/ThreatHunting/tree/master)
 
 
 ### Insider Threat
